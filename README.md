@@ -1,4 +1,4 @@
-#How to use
+# How to use
 Open your Facebook profile page and then you can 
 ```
 1. Use the script as a bookmarklet, or
@@ -6,5 +6,5 @@ Open your Facebook profile page and then you can
 ```
 Enjoy.
 
-#What is special about this script
+# What is special about this script
 The script implement a strategic scrolling that is similar to TCP's AIMD algorithm to overcome React's annoying infinite scrolling.
