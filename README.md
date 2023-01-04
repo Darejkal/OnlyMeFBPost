@@ -10,3 +10,6 @@ Enjoy.
 
 # What is special about this script
 The script implement a strategic scrolling that is similar to TCP's AIMD algorithm to overcome React's annoying infinite scrolling.
+
+# Known problems
+Since this script simulates browser actions, it will eventually reach an "Out of memory Error" due to browser's post caching.
