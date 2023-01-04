@@ -1,3 +1,5 @@
+# Usage
+This script will turn your facebook posts' privacy to 'Only Me' for your nerd's needs.
 # How to use
 Open your Facebook profile page and then you can 
 ```
