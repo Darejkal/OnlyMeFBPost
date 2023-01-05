@@ -43,6 +43,9 @@ javascript: (function r(id = 0, r = 0) {
       window.scrollIt.intervalId = null;
     };
     var start = function(){
+       speed=10;
+    maxspeed=10;
+    slowStart=true;
       window.scrollIt.intervalId = window.setInterval(scroll, 1000);
     };
     if(window.scrollIt.intervalId != null){
